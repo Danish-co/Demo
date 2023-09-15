@@ -1,1 +1,10 @@
 "this file is written in develope "
+"this file is written in develope"
+
+This line is feature 1.
+this line is also a feature 1.
+
+This line was missing from feature 1. so started here.
+
+
+hello
